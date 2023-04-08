@@ -1,0 +1,41 @@
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+@import "components/bg-video";
+@import "components/button";
+@import "components/card";
+@import "components/composition";
+@import "components/feacture-box";
+@import "components/form";
+@import "components/popup";
+@import "components/story";
+
+@import "layout/footer";
+@import "layout/grid";
+@import "layout/header";
+@import "layout/navigation";
+// @import "layout/test";
+
+
+@import "pages/home";
+// npm run compile:sass
+// npm init
+// npm install
+
+// position: absolute;
+// top: 50%;
+// left: 50%;
+// transform: translate(-50%,-50%);
+
+// display: flex;
+// align-items: center;
+// justify-content: center;
+
+// display: grid;
+// place-items: center;
